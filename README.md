@@ -1,6 +1,6 @@
 
 > #### Quick info:
-> **Taller:** ¡Crea un Twitterbot en 30 minutos!<br/>
+> **Taller:** ¡Crea un Twitterbot en 30 minutos! 🤖<br/>
 > **Tallerista:** Rodolfo Ferro Pérez<br/>
 > **Correo:** [ferro@cimat.mx](mailto:ferro@cimat.mx)<br/>
 > **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo)<br/>
@@ -24,7 +24,7 @@ Desde el apoyo en la administración de cuentas dando respuestas automáticas, h
 
 En este taller _relámpago_ (de sólo 30 minutos) aprenderemos cómo crear un bot muy básico en Twitter usando Python, para de manera automática tuitear frases de una lista de estados o directamente desde un libro.
 
-Para este taller necesitas conocimientos básicos sobre programación en Python y sobre el uso básico de Twitter. La idea es que tras tomar el taller, te interese adentrarte en el mundo de los bots para automatización de tareas, utilizando Python obviamente.
+Para este taller necesitas conocimientos básicos sobre programación en Python y sobre el uso básico de Twitter (¡está implícito que tengas una cuenta activa!). La idea es que tras tomar el taller te interese adentrarte en el mundo de los bots para automatización de tareas, utilizando Python, obviamente. 🐍
 
 ## ⏱ Duración del taller:
 
