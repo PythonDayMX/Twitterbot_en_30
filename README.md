@@ -40,7 +40,9 @@ En general, este taller está diseñado para que –_como se menciona en la desc
 
 ## 💻 Si vas a traer tu equipo:
 
+
 ##### Asegúrate de tener instalado lo siguiente:
+
 
 * [Python 3.x](https://www.python.org)
 * [Tweepy](http://www.tweepy.org)
