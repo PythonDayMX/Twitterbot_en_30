@@ -5,23 +5,21 @@ from random import randint
 # Setup API:
 def twitter_setup():
     # Authenticate and access using keys:
-    auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-    auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
+    # TODO
 
     # Return API access:
-    api = tweepy.API(auth)
-    return api
+    # TODO
 
 if __name__ == '__main__':
     # Setup Twitter API:
-    bot = twitter_setup()
+    # TODO
 
     # Set waiting time:
     secs = 3
 
     # Set tweet list:
     tweetlist = ["Test tweet using #Python in @FerroRodolfo's workshop at the @pythondaymx \n#PythonDayMX17",
-                "Look, I'm using #Python at the @pythondaymx w/@FerroRodolfo to post this! \n#PythonDayMX17",
+                " \n#PythonDayMX17",
                 " \n#PythonDayMX17"]
 
     # Tweet posting:
@@ -30,11 +28,7 @@ if __name__ == '__main__':
         print(tweet)
 
         # Try to post tweet:
-        try:
-            bot.update_status(tweet)
-            print("Successfully posted.")
-        except tweepy.TweepError as e:
-            print(e.reason)
+        # TODO
 
         # Wait till next sentence extraction:
         time.sleep(secs)
