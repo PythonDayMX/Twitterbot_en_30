@@ -1,22 +1,22 @@
 
 > #### Quick info:
-> **Taller:** ¡Crea un Twitterbot en 30 minutos!
-> **Tallerista:** Rodolfo Ferro Pérez
-> **Correo:** [ferro@cimat.mx](mailto:ferro@cimat.mx)
-> **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo)
+> **Taller:** ¡Crea un Twitterbot en 30 minutos!<br/>
+> **Tallerista:** Rodolfo Ferro Pérez<br/>
+> **Correo:** [ferro@cimat.mx](mailto:ferro@cimat.mx)<br/>
+> **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo)<br/>
 > **Github:** [RodolfoFerro](https://github.com/RodolfoFerro)
 
 
 -----
 
 
-# ¡Crea un Twitterbot en 30 minutos! 
+# ¡Crea un Twitterbot en 30 minutos! 🤖
 
-## Abstract:
+## 📄 Abstract:
 
 Los bots son relevantes para nosotros, pues automatizan tareas que eventualmente simplificarán trabajo a futuro. En esta taller _relámpago_ aprenderemos cómo crear un bot en Twitter usando Python, para de manera automática tuitear frases de un libro. ¡En sólo 30 minutos!
 
-## Full description:
+## 📑 Full description:
 
 **¡Crea un Twitterbot en 30 minutos!**
 
@@ -26,7 +26,7 @@ En este taller _relámpago_ (de sólo 30 minutos) aprenderemos cómo crear un bo
 
 Para este taller necesitas conocimientos básicos sobre programación en Python y sobre el uso básico de Twitter. La idea es que tras tomar el taller, te interese adentrarte en el mundo de los bots para automatización de tareas, utilizando Python obviamente.
 
-## Duración del taller:
+## ⏱ Duración del taller:
 
 ##### Porque resulta increible hacer un bot en 30 minutos...
 
@@ -38,11 +38,11 @@ En general, este taller está diseñado para que –_como se menciona en la desc
 4. Tuiteando de una lista (~5 minutos)
 5. Tuiteando de un libro (~10 minutos)
 
-## Si vas a traer tu equipo:
+## 💻 Si vas a traer tu equipo:
 
 #### Asegúrate de tener instalado lo siguiente:
-* Python 3.x
-* Tweepy
+* [Python 3.x](https://www.python.org)
+* [Tweepy](http://www.tweepy.org)
 
 
 -----
