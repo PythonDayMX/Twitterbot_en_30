@@ -14,7 +14,7 @@
 
 ## 📄 Abstract:
 
-Los bots son relevantes para nosotros, pues automatizan tareas que eventualmente simplificarán trabajo a futuro. En esta taller _relámpago_ aprenderemos cómo crear un bot en Twitter usando Python, para de manera automática tuitear frases de un libro. ¡En sólo 30 minutos!
+Los bots son relevantes para nosotros, pues automatizan tareas que eventualmente simplificarán trabajo a futuro. En este taller _relámpago_ aprenderemos cómo crear un bot en Twitter usando Python, para de manera automática tuitear frases de un libro. ¡En sólo 30 minutos!
 
 ## 📑 Full description:
 
@@ -22,7 +22,7 @@ Los bots son relevantes para nosotros, pues automatizan tareas que eventualmente
 
 Desde el apoyo en la administración de cuentas dando respuestas automáticas, hasta la realización de procesamientos más elaborados a través de redes sociales; los bots son relevantes para nosotros, pues automatizan tareas que eventualmente simplificarán trabajo futuro.
 
-En este taller _relámpago_ (de sólo 30 minutos) aprenderemos cómo crear un bot muy básico en Twitter usando Python, para de manera automática tuitear frases de una lista de estados o directamente de un libro.
+En este taller _relámpago_ (de sólo 30 minutos) aprenderemos cómo crear un bot muy básico en Twitter usando Python, para de manera automática tuitear frases de una lista de estados o directamente desde un libro.
 
 Para este taller necesitas conocimientos básicos sobre programación en Python y sobre el uso básico de Twitter. La idea es que tras tomar el taller, te interese adentrarte en el mundo de los bots para automatización de tareas, utilizando Python obviamente.
 
