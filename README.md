@@ -8,7 +8,7 @@
 
 
 -----
-
+![Twitterbot](https://github.com/PythonDayMX/Crea_un_Twitterbot_en_30_minutos/img.png)
 
 # ¡Crea un Twitterbot en 30 minutos! 🤖
 
@@ -40,7 +40,7 @@ En general, este taller está diseñado para que –_como se menciona en la desc
 
 ## 💻 Si vas a traer tu equipo:
 
-#### Asegúrate de tener instalado lo siguiente:
+##### Asegúrate de tener instalado lo siguiente:
 * [Python 3.x](https://www.python.org)
 * [Tweepy](http://www.tweepy.org)
 
