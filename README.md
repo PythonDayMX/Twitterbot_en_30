@@ -8,7 +8,7 @@
 
 
 -----
-![Twitterbot](https://github.com/PythonDayMX/Crea_un_Twitterbot_en_30_minutos/img.png)
+![Twitterbot](https://github.com/PythonDayMX/Crea_un_Twitterbot_en_30_minutos/blob/master/img.png)
 
 # ¡Crea un Twitterbot en 30 minutos! 🤖
 
