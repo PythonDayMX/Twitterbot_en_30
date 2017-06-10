@@ -4,7 +4,7 @@
 > **Tallerista:** Rodolfo Ferro Pérez<br/>
 > **Correo:** [ferro@cimat.mx](mailto:ferro@cimat.mx)<br/>
 > **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo)<br/>
-> **Github:** [RodolfoFerro](https://github.com/RodolfoFerro)
+> **Github:** [RodolfoFerro](https://github.com/RodolfoFerro)<br/>
 > **Slides:** [¡Click aquí!](https://github.com/PythonDayMX/Twitterbot_en_30/blob/master/Twitterbot%20en%2030.pdf)
 
 
