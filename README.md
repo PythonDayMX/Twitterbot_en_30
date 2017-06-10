@@ -5,6 +5,7 @@
 > **Correo:** [ferro@cimat.mx](mailto:ferro@cimat.mx)<br/>
 > **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo)<br/>
 > **Github:** [RodolfoFerro](https://github.com/RodolfoFerro)
+> **Slides:** [¡Click aquí!](https://github.com/PythonDayMX/Twitterbot_en_30/blob/master/Twitterbot%20en%2030.pdf)
 
 
 -----
@@ -37,6 +38,8 @@ En general, este taller está diseñado para que –_como se menciona en la desc
 3. Consumiendo el Twitter API vía Twitter (~5 minutos)
 4. Tuiteando de una lista (~5 minutos)
 5. Tuiteando de un libro (~10 minutos)
+
+Puedes consultar los slides [aquí](https://github.com/PythonDayMX/Twitterbot_en_30/blob/master/Twitterbot%20en%2030.pdf).
 
 ## 💻 Si vas a traer tu equipo:
 
